@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachchidanand gupta
-- 👀 Currently I'm learning android Devlopment
-- 🌱 I’m currently learned C , C++ and Basics of JAVA 
+- 👀 Currently I'm learning Full stack Development
+- 🌱 I’m currently learned C , C++ and core JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , just u can contact me through E mail digitalsudama076@gmail.com
 
